@@ -1,6 +1,4 @@
 # PKG_utils
-
-# DMG_utils
 Some tools to parse and work with Apple PKG format files (old and new types)
 
 ## Use example
