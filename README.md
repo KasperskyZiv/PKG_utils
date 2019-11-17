@@ -13,6 +13,6 @@ pkg.extract_payload_and_scripts(extract_path)
 
 ## Requirements
 
-* python <3.7
+* python=>3.7
 * `pip install -r requirements.txt`
 * 7z
